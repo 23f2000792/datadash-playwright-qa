@@ -1,0 +1,11 @@
+{
+  "name": "datadash-playwright-qa",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
